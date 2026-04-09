@@ -10,8 +10,6 @@ A Python-based tool that analyzes password strength and provides suggestions to 
   - Special characters
 - Provides suggestions to improve password strength.
 
-Markdown
-
 ## ▶️ How to Run
 ```bash
 py password_checker.py
